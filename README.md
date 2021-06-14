@@ -51,13 +51,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Skill Trainer on Python & Machine Learning 🙍🏽‍♂️ [@APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), & [@chegg](https://www.chegg.com/). Beside's programming, I enjoy eating food and traveling.
+I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Skill Trainer on Python & Machine Learning 🙍🏽‍♂️ [@APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻 [@ByteXL](https://bytexl.in/), & [@Chegg](https://www.chegg.com/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
+  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently training students from different engineering college students across the state of Andhra Pradesh on Python, Data Analysis and Machine Learning;
+- 👨🏽‍💻 I’m currently training students from different engineering college students across the state of Andhra Pradesh on Data Science;
 - 🌱 I’m currently learning Deep Learning and Computer Vision;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: The distance from my 🏡 to 🌞 is equal to the distance from 🌞 to my 🏡 🤪.
@@ -85,3 +85,8 @@ I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Ski
       <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=AnilKumarTeegala&show_icons=true&theme=prussian height=202, width=60% />
     <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AnilKumarTeegala&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript height=202 width=30% />
 </div>
+
+<details>	
+  <summary><b>⚡Github Stats</b></summary>
+  <br>
+<p><img style="zoom:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnilKumarTeegala&" alt="AnilKumarTeegala" /  width=90% height=202 hide_border=true></p></details>
