@@ -51,13 +51,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-I'm, a Machine Learning Developer🤖 from India, currently, I'm a Technical Skill Trainer on Python & Machine Learning 🙍🏽‍♂️ [@APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻 [@ByteXL](https://bytexl.in/), & [@Chegg](https://www.chegg.com/). Beside's programming, I enjoy eating food and traveling.
+I'm, Python Developer🤖 working in Tata Consultancy Services from India, 🙍🏽‍♂️ [@Ex - APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻 [@ByteXL](https://bytexl.in/), & [@Chegg](https://www.chegg.com/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently training students from different engineering college students across the state of Andhra Pradesh on Data Science;
+- 👨🏽‍💻 I’m currently Building Python Applications
 - 🌱 I’m currently learning Deep Learning and Computer Vision;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: The distance from my 🏡 to 🌞 is equal to the distance from 🌞 to my 🏡 🤪.
