@@ -51,22 +51,26 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-I'm, Python Developer🤖 working in Tata Consultancy Services from India, 🙍🏽‍♂️ [@Ex - APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻 [@ByteXL](https://bytexl.in/), & [@Chegg](https://www.chegg.com/). Beside's programming, I enjoy eating food and traveling.
+I'm, working as an data Engineer🤖 from India, 🙍🏽‍♂️ [@Ex - APSSDC](https://github.com/AP-State-Skill-Development-Corporation), Freelancer 👨🏽‍💻. Beside's programming, I enjoy eating food and traveling.
+<!-- [@ByteXL](https://bytexl.in/), & [@Chegg](https://www.chegg.com/). --> 
 
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently Building Python Applications
+- 👨🏽‍💻 I’m currently Building Data Applications
 - 🌱 I’m currently learning Deep Learning and Computer Vision;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: The distance from my 🏡 to 🌞 is equal to the distance from 🌞 to my 🏡 🤪.
-- 📫 How to reach me @: anilkumarteegala7@gmail.com;
+<!-- 
+📫 How to reach me @: anilkumarteegala7@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1qOk4OVZ6Id0gbdY1Hm0um-CeNyRi01MY/view?usp=sharing)
+-->
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -80,13 +84,13 @@ I'm, Python Developer🤖 working in Tata Consultancy Services from India, 🙍�
 ![Anil Kumar's github stats](https://github-readme-stats.vercel.app/api?username=AnilKumarTeegala&show_icons=true&hide_border=true)
 ![Anil Kumar Teegala](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilKumarTeegala&amp;show_icons=true&amp)
 -->
+<details>	
 
 <div>
       <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=AnilKumarTeegala&show_icons=true&theme=prussian height=202, width=60% />
     <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AnilKumarTeegala&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript height=202 width=30% />
 </div>
 
-<details>	
   <summary><b>⚡Github Stats</b></summary>
   <br>
 <p><img style="zoom:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnilKumarTeegala&" alt="AnilKumarTeegala" /  width=90% height=202 hide_border=true></p></details>
